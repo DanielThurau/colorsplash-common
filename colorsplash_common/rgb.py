@@ -66,7 +66,7 @@ class RGBTableHelper:
                     'RGB': {
                         'S': key
                     },
-                    'ImageIds': self.serialize_ddb_list(value)
+                    'ImageIds': self.serialize_imageids_attribute(value)
                 }
             )
         except Exception as e:

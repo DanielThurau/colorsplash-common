@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "colorsplash-common"
-version = "0.3.0"
+version = "0.3.1"
 description = "A common set of classes for the ColorSplash project python components"
 license = "MIT"
 authors = ["Daniel Thurau <daniel.n.thurau@gmail.com>"]
